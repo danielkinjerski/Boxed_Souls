@@ -1,0 +1,21 @@
+# Ignore the contributor's local assets folder, subfolders, and files
+BoxedSouls/Assets/~Local/*
+BoxedSouls/Assets/~Local/**/*
+
+# Ignore Library files
+/BoxedSouls/Library/*
+/BoxedSouls/Library/**/*
+
+# Ignore local build files
+BoxedSouls/obj/*
+BoxedSouls/obj/**/*
+BoxedSouls/Temp/*
+BoxedSouls/Temp/**/*
+
+# Ignore local project files
+BoxedSouls/*.csproj
+BoxedSouls/*.pidb
+BoxedSouls/*.sln
+BoxedSouls/*.suo
+BoxedSouls/*.unityproj
+BoxedSouls/*.userprefs
